@@ -1,0 +1,17 @@
+
+Please select Delivery or Carry out.
+Click reset before clicking between carryout and delivery if customer wants to change options
+
+Type in customer information hit submit to save info to address_book.db
+OR
+Click "continue to next screen" to move on without saving data
+
+To return to the first window Click the "back to first window" button
+
+To select what pizza you would like click the arrows on the spin boxes or type in a value, when you have made your
+selection please hit submit to see your total
+
+If you want to change your order, Click "reset total" to clear your total, be sure to make
+ your changes to your order before clicking submit again
+
+You can exit the program anytime by using the "exit program" button in the top left corner of the window
